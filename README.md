@@ -1,4 +1,4 @@
-** DIAMOND PRICE PREDICTION USING REGRESSION ANALYSIS**
+*DIAMOND PRICE PREDICTION USING REGRESSION ANALYSIS*
 
 
 Welcome to the Diamond Price Prediction project! This repository contains all the necessary resources to develop a machine learning model aimed at predicting the prices of diamonds based on their characteristics.
